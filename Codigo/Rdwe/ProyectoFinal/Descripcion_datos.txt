@@ -1,0 +1,5 @@
+GAM_total_ingresosyprecios: para el total de la GAM, (i) ingreso promedio de cada hogar y (ii) precio de combustibles; ambos en colones reales de 2020.
+GAM_porcanton_consumodegasolina: volumen de ventas por año y por cantón de gasolina (súper más regular) en metros cúbicos.
+GAM_porcanton_trabajadores: trabajadores asegurados directos del seguro de salud, por año.
+GAM_porcanton_areaconstruidatotal: suma de área construida por cantón y por año, según permisos de construcción, en metros cuadrados.
+GAM_porcanton_PEA: población económicamente activa por cantón y por año, según estimaciones de la CCSS.
